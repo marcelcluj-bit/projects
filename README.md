@@ -40,3 +40,11 @@ Bun venit pe hub-ul central al proiectelor strategice de infrastructură, tokeni
 ## 🛠️ Viziune & Standarde
 
 Toate proiectele sunt concepute sub formă de **Open-Source Blueprints**, oferind transparență totală, documentație detaliată în folderele `docs/` și bugete financiare clare (`financials/`), fiind pregătite pentru implementare instituțională sau privată.
+
+### ⚖️ Legal Disclaimer & Intellectual Property Notice
+
+**© 2026 Marcel. All Rights Reserved.**
+
+*   **Intellectual Property Rights:** The architectural designs, strategic frameworks, technical blueprints, and simulation models published within this repository (including Q-THERM, Peace Energy Hub, and associated infrastructure frameworks) are the intellectual property of the author. All rights are reserved worldwide.
+*   **Disclaimer of Liability:** The content, technical specifications, and economic models provided herein are for informational, research, and open-source planning purposes only. They do not constitute formal financial, legal, or investment advice. The author makes no warranties, express or implied, regarding the absolute accuracy or operational outcomes of the implementations, and disclaims any liability for direct or indirect damages resulting from the use of these blueprints.
+*   **Licensing & Unauthorized Use:** While public viewing, academic peer review, and forks for educational purposes are permitted under standard open-source transparency, any commercial exploitation, unauthorized institutional adoption, patenting attempts, or proprietary derivation without explicit prior written consent from the author is strictly prohibited.
