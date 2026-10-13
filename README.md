@@ -30,6 +30,13 @@ Bun venit pe hub-ul central al proiectelor strategice de infrastructură, tokeni
 
 ---
 
+### ⚛️ Q-THERM: Quantum-Cooling & Energy Framework
+- **Domeniu:** Răcire radiativă pasivă, metamateriale nanostructurate din cuarț și modelare cuantică pentru centre de date.
+- **Buget / Finanțare:** 4.000.000 EUR (Horizon Europe / EIC Pathfinder & Tokenizare Globală RWA).
+- **Arhitectură & Documentație:** [Vezi Proiectul Complet pe GitHub](https://github.com/marcelcluj-bit/Q-THERM-Quantum-Cooling-Framework) | [📖 Citește Propunerea Tehnică](https://github.com/marcelcluj-bit/Q-THERM-Quantum-Cooling-Framework/blob/main/docs/Q-THERM-Propunere-Complet%C4%83.md)
+
+- 
+
 ## 🛠️ Viziune & Standarde
 
 Toate proiectele sunt concepute sub formă de **Open-Source Blueprints**, oferind transparență totală, documentație detaliată în folderele `docs/` și bugete financiare clare (`financials/`), fiind pregătite pentru implementare instituțională sau privată.
