@@ -48,3 +48,13 @@ Toate proiectele sunt concepute sub formă de **Open-Source Blueprints**, oferin
 *   **Intellectual Property Rights:** The architectural designs, strategic frameworks, technical blueprints, and simulation models published within this repository (including Q-THERM, Peace Energy Hub, and associated infrastructure frameworks) are the intellectual property of the author. All rights are reserved worldwide.
 *   **Disclaimer of Liability:** The content, technical specifications, and economic models provided herein are for informational, research, and open-source planning purposes only. They do not constitute formal financial, legal, or investment advice. The author makes no warranties, express or implied, regarding the absolute accuracy or operational outcomes of the implementations, and disclaims any liability for direct or indirect damages resulting from the use of these blueprints.
 *   **Licensing & Unauthorized Use:** While public viewing, academic peer review, and forks for educational purposes are permitted under standard open-source transparency, any commercial exploitation, unauthorized institutional adoption, patenting attempts, or proprietary derivation without explicit prior written consent from the author is strictly prohibited.
+
+
+---
+
+## 🤝 Collaboration & Future Projects
+
+We are open to technical collaboration, academic research, and strategic partnerships on open-source infrastructure, energy security frameworks, and decentralized systems. 
+
+* **Get in Touch:** If you want to contribute, discuss architecture, or propose a new initiative, feel free to open an issue, submit a pull request, or contact us directly via the repository profile.
+* **Open Source Commitment:** All frameworks are shared under open licenses to foster transparent, global, and secure development.
