@@ -30,14 +30,14 @@ Bun venit pe hub-ul central al proiectelor strategice de infrastructură, tokeni
 
 ---
 
-### ⚛️ Q-THERM: Quantum-Cooling & Energy Framework
+###  5 ⚛️ Q-THERM: Quantum-Cooling & Energy Framework
 - **Domeniu:** Răcire radiativă pasivă, metamateriale nanostructurate din cuarț și modelare cuantică pentru centre de date.
 - **Buget / Finanțare:** 4.000.000 EUR (Horizon Europe / EIC Pathfinder & Tokenizare Globală RWA).
 - **Arhitectură & Documentație:** [Vezi Proiectul Complet pe GitHub](https://github.com/marcelcluj-bit/Q-THERM-Quantum-Cooling-Framework) | [📖 Citește Propunerea Tehnică](https://github.com/marcelcluj-bit/Q-THERM-Quantum-Cooling-Framework/blob/main/docs/Q-THERM-Propunere-Complet%C4%83.md)
 
 - 
 
-### - **RO-NANO-NET DePIN Architecture**: Decentralized physical infrastructure network for nanostructural audits, high-resolution FE-SEM microscopy, and smart-contract tokenization. ([View Repository](https://github.com/marcelcluj-bit/RONANONETNode.sol))
+### -  6 **RO-NANO-NET DePIN Architecture**: Decentralized physical infrastructure network for nanostructural audits, high-resolution FE-SEM microscopy, and smart-contract tokenization. ([View Repository](https://github.com/marcelcluj-bit/RONANONETNode.sol))
 
 ## 🛠️ Viziune & Standarde
 
