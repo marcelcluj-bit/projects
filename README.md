@@ -37,7 +37,12 @@ Bun venit pe hub-ul central al proiectelor strategice de infrastructură, tokeni
 
 - 
 
-### -  6 **RO-NANO-NET DePIN Architecture**: Decentralized physical infrastructure network for nanostructural audits, high-resolution FE-SEM microscopy, and smart-contract tokenization. ([View Repository](https://github.com/marcelcluj-bit/RONANONETNode.sol))
+### - 6. 🔬 RO-NANO-NET DePIN Architecture (Nanostructural Audit & FE-SEM)
+- **Domeniu:** Rețele de infrastructură fizică descentralizată (DePIN), microscopie electronică de înaltă rezoluție și audit criptografic on-chain.
+- **Arhitectură & Buget:** Contract inteligent Solidity (`RONANONETNode.sol`), Buget CAPEX 1.575.000 € / OPEX 400.000 € și analiză SWOT completă.
+- **Repozitoriu:** [RO-NANO-NET GitHub Repository](https://github.com/marcelcluj-bit/RONANONETNode.sol)  
+
+**RO-NANO-NET DePIN Architecture**: Decentralized physical infrastructure network for nanostructural audits, high-resolution FE-SEM microscopy, and smart-contract tokenization. ([View Repository](https://github.com/marcelcluj-bit/RONANONETNode.sol))
 
 ## 🛠️ Viziune & Standarde
 
