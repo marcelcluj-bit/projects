@@ -48,7 +48,8 @@ Bun venit pe hub-ul central al proiectelor strategice de infrastructură, tokeni
 ### -9.# 🕊️ ARMONIA / ÖSSZHANG / HARMONIE / HARMONY
 
 > **Open-Source Community Crisis Response & Human Sanctuary Framework**  
-> *A warm meal. An open hand. Everything FREE.*  
+> *A warm meal. An open hand. Everything FREE.*
+> (https://github.com/marcelcluj-bit/-ARMONIA-SSZHANG-HARMONIE-HARMONY-)
 
 ## 🛠️ Viziune & Standarde
 
